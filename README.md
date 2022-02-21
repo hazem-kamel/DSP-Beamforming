@@ -2,7 +2,6 @@
 
 # Digital Signal Processing PT
 ## BEAMFORMING
-<sub>Armin Niedermueller, Ahmet Cihat Bozkurt, Hazem Kamel</sub>
 
 ## Introduction
 
